@@ -1,0 +1,12 @@
+*{margin: 0;padding: 0;}
+
+.rodape{
+    background-color: #a9a4a4;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.texto-rodape{
+    padding-bottom: 7px;
+}
